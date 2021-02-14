@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Ballet', cursive;
+    text-align: center;
+    color: dodgerblue;
+    font-size: 50px;
+}
+
+h6 {
+    font-family: cursive;
+    font-style: italic;
+    text-align: center;
+    color: orangered;
+}
+h2{
+    font-family: fantasy;
+    font-style: italic;
+    color: blue;
+}
+h3{
+    font-family: monospace;
+    font-style: italic;
+    color: darkviolet;
+}
